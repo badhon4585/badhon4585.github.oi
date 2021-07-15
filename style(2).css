@@ -8,10 +8,11 @@
     background-color:#3347D1 ;
 }
 .card-top{
+    margin-top: 20px;
     background-color: darkcyan;
 }
-.card-top h3{
-    font-size: 30px;
+.container h3{
+    font-size: 40px;
 }
 .profile-area{
     background-color: rgba(228, 228, 255, 0.76);
@@ -45,6 +46,7 @@
     transition: .7s;
 
 }
+
 .mani-text{
     padding: 38px 0;
     text-align: center;
