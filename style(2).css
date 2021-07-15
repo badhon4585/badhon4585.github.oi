@@ -7,7 +7,12 @@
 .about-container{
     background-color:#3347D1 ;
 }
-
+.card-top{
+    background-color: darkcyan;
+}
+.card-top h3{
+    font-size: 30px;
+}
 .profile-area{
     background-color: rgba(228, 228, 255, 0.76);
     padding: 80px 0;
