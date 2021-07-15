@@ -83,3 +83,19 @@
     font-size: 70px;
     font-weight: bolder;
 }
+.footer{
+    background-color: #129fd3;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color:#36aeda ;
+}
+.circle:hover{
+    background-color: black;
+}
