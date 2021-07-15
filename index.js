@@ -52,10 +52,9 @@ var sec = hour * 3.6;
 
 document.write("hour=" + sec);  
 
-class="elementor-shape elementor-shape-top"
 
 
-data-negative="false"
+
 
 
  
